@@ -1,11 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Transcend Ventures, Inc.
+tagline: Investments   |   Due Diligence   |   Advisory
+featuredImage: /assets/bg0005.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+##### Cross Border Business Alliances
+
+Transcend Ventures, Inc offers a wide range of corporate advisory services to owners of small and middle market companies across major industry verticals.
