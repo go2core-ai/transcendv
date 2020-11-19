@@ -3,11 +3,7 @@ import { Link } from "gatsby"
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 
 const MenuItems = [
-  {
-    path: "/",
-    title: "Home"
-  },
-  
+ 
 ]
 
 const ListLink = (props) => (<li><Link to={props.to}>{props.children}</Link></li>)
