@@ -8,10 +8,6 @@ const MenuItems = [
     title: "Home"
   },
   
-  {
-    path: "/contact",
-    title: "Contact"
-  },
 ]
 
 const ListLink = (props) => (<li><Link to={props.to}>{props.children}</Link></li>)
