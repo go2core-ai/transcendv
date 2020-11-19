@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Transcend Ventures, Inc.",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Website made with ❤ by Kāla.",
+    "siteUrl": "https://transcendv.com/",
+    "image": "/assets/01-opp.webp",
+    "iconimage": "/assets/01-opp.webp",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
