@@ -5,8 +5,8 @@ title: Transcend Ventures, Inc.
 tagline: Investments   |   Due Diligence   |   Advisory
 featuredImage: /assets/bg0005.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: Contact
+  ctaLink: mailto:rajesh@transcendv.com
 ---
 ##### Cross Border Business Alliances
 
